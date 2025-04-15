@@ -1,5 +1,12 @@
 # event-management
 
+## Project create
+```
+npm install -g @vue/cli
+```
+```
+vue create event-management
+```
 ## Project setup
 ```
 npm install
